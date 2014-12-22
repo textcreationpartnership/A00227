@@ -36,11 +36,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Articles to be inquired of in the visitation to be had in the byshopricke of Norwyche, now vacant in
+ARTICLES TO BE INQVIRED OF IN THE VISITATION TO BE HAD in the byshopricke of Norwyche, now vacant, i
 #####Body#####
-Articles to be inquired of in the visitation to be had in the byshopricke of Norwyche, now vacant in
+
+1. Articles to be inquired of.
+
 #####Back#####
-Articles to be inquired of in the visitation to be had in the byshopricke of Norwyche, now vacant in
+Imprinted at London by Reynold Wolfe.Cum priuilegio ad imprimendum solum.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
