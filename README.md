@@ -36,7 +36,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-ARTICLES TO BE INQVIRED OF IN THE VISITATION TO BE HAD in the byshopricke of Norwyche, now vacant, i
+
 #####Body#####
 
 1. Articles to be inquired of.
